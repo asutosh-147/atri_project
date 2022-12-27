@@ -39,7 +39,7 @@ export function updateStoreStateFromController(pageName, newState) {
 
 const desktopModeProps = {
   ...{
-  "Home": {
+  "Blog": {
     "Flex1": {
       "callbacks": {}
     },

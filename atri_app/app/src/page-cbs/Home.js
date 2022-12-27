@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import { callbackFactory } from "../utils/callbackFactory";
 export function useFlex1Cb() {
-	const onClick = useCallback(callbackFactory("Flex1", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex1", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -13,7 +13,7 @@ export function useFlex1Cb() {
 	return { onClick }
 }
 export function useDiv2Cb() {
-	const onClick = useCallback(callbackFactory("Div2", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div2", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -25,7 +25,7 @@ export function useDiv2Cb() {
 	return { onClick }
 }
 export function useTextBox3Cb() {
-	const onClick = useCallback(callbackFactory("TextBox3", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox3", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -41,7 +41,7 @@ export function useTextBox3Cb() {
 	return { onClick }
 }
 export function useTextBox4Cb() {
-	const onClick = useCallback(callbackFactory("TextBox4", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox4", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -57,7 +57,7 @@ export function useTextBox4Cb() {
 	return { onClick }
 }
 export function useDiv3Cb() {
-	const onClick = useCallback(callbackFactory("Div3", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div3", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -69,7 +69,7 @@ export function useDiv3Cb() {
 	return { onClick }
 }
 export function useTextBox5Cb() {
-	const onClick = useCallback(callbackFactory("TextBox5", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox5", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -85,7 +85,7 @@ export function useTextBox5Cb() {
 	return { onClick }
 }
 export function useImageCb() {
-	const onClick = useCallback(callbackFactory("Image", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -97,7 +97,7 @@ export function useImageCb() {
 	return { onClick }
 }
 export function useImage1Cb() {
-	const onClick = useCallback(callbackFactory("Image1", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image1", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -113,7 +113,7 @@ export function useImage1Cb() {
 	return { onClick }
 }
 export function useImage2Cb() {
-	const onClick = useCallback(callbackFactory("Image2", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image2", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -129,7 +129,7 @@ export function useImage2Cb() {
 	return { onClick }
 }
 export function useFlex3Cb() {
-	const onClick = useCallback(callbackFactory("Flex3", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex3", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -141,7 +141,7 @@ export function useFlex3Cb() {
 	return { onClick }
 }
 export function useImage3Cb() {
-	const onClick = useCallback(callbackFactory("Image3", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image3", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -157,7 +157,7 @@ export function useImage3Cb() {
 	return { onClick }
 }
 export function useImage4Cb() {
-	const onClick = useCallback(callbackFactory("Image4", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image4", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -173,7 +173,7 @@ export function useImage4Cb() {
 	return { onClick }
 }
 export function useFlex10Cb() {
-	const onClick = useCallback(callbackFactory("Flex10", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex10", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -185,7 +185,7 @@ export function useFlex10Cb() {
 	return { onClick }
 }
 export function useDiv5Cb() {
-	const onClick = useCallback(callbackFactory("Div5", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div5", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -197,7 +197,7 @@ export function useDiv5Cb() {
 	return { onClick }
 }
 export function useDiv6Cb() {
-	const onClick = useCallback(callbackFactory("Div6", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div6", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -209,7 +209,7 @@ export function useDiv6Cb() {
 	return { onClick }
 }
 export function useTextBox7Cb() {
-	const onClick = useCallback(callbackFactory("TextBox7", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox7", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -225,7 +225,7 @@ export function useTextBox7Cb() {
 	return { onClick }
 }
 export function useDiv7Cb() {
-	const onClick = useCallback(callbackFactory("Div7", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div7", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -237,7 +237,7 @@ export function useDiv7Cb() {
 	return { onClick }
 }
 export function useTextBox8Cb() {
-	const onClick = useCallback(callbackFactory("TextBox8", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox8", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -253,7 +253,7 @@ export function useTextBox8Cb() {
 	return { onClick }
 }
 export function useFlex11Cb() {
-	const onClick = useCallback(callbackFactory("Flex11", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex11", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -265,7 +265,7 @@ export function useFlex11Cb() {
 	return { onClick }
 }
 export function useTextBox9Cb() {
-	const onClick = useCallback(callbackFactory("TextBox9", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox9", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -281,7 +281,7 @@ export function useTextBox9Cb() {
 	return { onClick }
 }
 export function useTextBox10Cb() {
-	const onClick = useCallback(callbackFactory("TextBox10", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox10", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -297,7 +297,7 @@ export function useTextBox10Cb() {
 	return { onClick }
 }
 export function useDiv8Cb() {
-	const onClick = useCallback(callbackFactory("Div8", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div8", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -309,7 +309,7 @@ export function useDiv8Cb() {
 	return { onClick }
 }
 export function useFlex12Cb() {
-	const onClick = useCallback(callbackFactory("Flex12", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex12", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -321,7 +321,7 @@ export function useFlex12Cb() {
 	return { onClick }
 }
 export function useDiv10Cb() {
-	const onClick = useCallback(callbackFactory("Div10", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div10", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -333,7 +333,7 @@ export function useDiv10Cb() {
 	return { onClick }
 }
 export function useTextBox11Cb() {
-	const onClick = useCallback(callbackFactory("TextBox11", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox11", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -349,7 +349,7 @@ export function useTextBox11Cb() {
 	return { onClick }
 }
 export function useFlex13Cb() {
-	const onClick = useCallback(callbackFactory("Flex13", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex13", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -361,7 +361,7 @@ export function useFlex13Cb() {
 	return { onClick }
 }
 export function useTextBox12Cb() {
-	const onClick = useCallback(callbackFactory("TextBox12", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox12", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -377,7 +377,7 @@ export function useTextBox12Cb() {
 	return { onClick }
 }
 export function useTextBox13Cb() {
-	const onClick = useCallback(callbackFactory("TextBox13", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox13", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -393,7 +393,7 @@ export function useTextBox13Cb() {
 	return { onClick }
 }
 export function useDiv13Cb() {
-	const onClick = useCallback(callbackFactory("Div13", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div13", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -405,7 +405,7 @@ export function useDiv13Cb() {
 	return { onClick }
 }
 export function useTextBox18Cb() {
-	const onClick = useCallback(callbackFactory("TextBox18", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox18", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -421,7 +421,7 @@ export function useTextBox18Cb() {
 	return { onClick }
 }
 export function useFlex17Cb() {
-	const onClick = useCallback(callbackFactory("Flex17", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex17", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -433,7 +433,7 @@ export function useFlex17Cb() {
 	return { onClick }
 }
 export function useTextBox19Cb() {
-	const onClick = useCallback(callbackFactory("TextBox19", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox19", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -449,7 +449,7 @@ export function useTextBox19Cb() {
 	return { onClick }
 }
 export function useTextBox20Cb() {
-	const onClick = useCallback(callbackFactory("TextBox20", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox20", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -465,7 +465,7 @@ export function useTextBox20Cb() {
 	return { onClick }
 }
 export function useTextBox21Cb() {
-	const onClick = useCallback(callbackFactory("TextBox21", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox21", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -481,7 +481,7 @@ export function useTextBox21Cb() {
 	return { onClick }
 }
 export function useDiv17Cb() {
-	const onClick = useCallback(callbackFactory("Div17", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div17", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -493,7 +493,7 @@ export function useDiv17Cb() {
 	return { onClick }
 }
 export function useTextBox33Cb() {
-	const onClick = useCallback(callbackFactory("TextBox33", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox33", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -509,7 +509,7 @@ export function useTextBox33Cb() {
 	return { onClick }
 }
 export function useFlex24Cb() {
-	const onClick = useCallback(callbackFactory("Flex24", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex24", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -521,7 +521,7 @@ export function useFlex24Cb() {
 	return { onClick }
 }
 export function useTextBox34Cb() {
-	const onClick = useCallback(callbackFactory("TextBox34", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox34", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -537,7 +537,7 @@ export function useTextBox34Cb() {
 	return { onClick }
 }
 export function useTextBox35Cb() {
-	const onClick = useCallback(callbackFactory("TextBox35", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox35", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -553,7 +553,7 @@ export function useTextBox35Cb() {
 	return { onClick }
 }
 export function useDiv21Cb() {
-	const onClick = useCallback(callbackFactory("Div21", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div21", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -565,7 +565,7 @@ export function useDiv21Cb() {
 	return { onClick }
 }
 export function useTextBox48Cb() {
-	const onClick = useCallback(callbackFactory("TextBox48", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox48", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -581,7 +581,7 @@ export function useTextBox48Cb() {
 	return { onClick }
 }
 export function useFlex28Cb() {
-	const onClick = useCallback(callbackFactory("Flex28", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex28", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -593,7 +593,7 @@ export function useFlex28Cb() {
 	return { onClick }
 }
 export function useTextBox49Cb() {
-	const onClick = useCallback(callbackFactory("TextBox49", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox49", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -609,7 +609,7 @@ export function useTextBox49Cb() {
 	return { onClick }
 }
 export function useTextBox50Cb() {
-	const onClick = useCallback(callbackFactory("TextBox50", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox50", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -625,7 +625,7 @@ export function useTextBox50Cb() {
 	return { onClick }
 }
 export function useDiv22Cb() {
-	const onClick = useCallback(callbackFactory("Div22", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div22", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -637,7 +637,7 @@ export function useDiv22Cb() {
 	return { onClick }
 }
 export function useTextBox51Cb() {
-	const onClick = useCallback(callbackFactory("TextBox51", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox51", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -653,7 +653,7 @@ export function useTextBox51Cb() {
 	return { onClick }
 }
 export function useFlex29Cb() {
-	const onClick = useCallback(callbackFactory("Flex29", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex29", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -665,7 +665,7 @@ export function useFlex29Cb() {
 	return { onClick }
 }
 export function useTextBox52Cb() {
-	const onClick = useCallback(callbackFactory("TextBox52", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox52", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -681,7 +681,7 @@ export function useTextBox52Cb() {
 	return { onClick }
 }
 export function useTextBox53Cb() {
-	const onClick = useCallback(callbackFactory("TextBox53", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox53", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -697,7 +697,7 @@ export function useTextBox53Cb() {
 	return { onClick }
 }
 export function useDiv23Cb() {
-	const onClick = useCallback(callbackFactory("Div23", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div23", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -709,7 +709,7 @@ export function useDiv23Cb() {
 	return { onClick }
 }
 export function useTextBox54Cb() {
-	const onClick = useCallback(callbackFactory("TextBox54", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox54", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -725,7 +725,7 @@ export function useTextBox54Cb() {
 	return { onClick }
 }
 export function useTextBox55Cb() {
-	const onClick = useCallback(callbackFactory("TextBox55", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox55", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -741,7 +741,7 @@ export function useTextBox55Cb() {
 	return { onClick }
 }
 export function useDiv24Cb() {
-	const onClick = useCallback(callbackFactory("Div24", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div24", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -753,7 +753,7 @@ export function useDiv24Cb() {
 	return { onClick }
 }
 export function useImage6Cb() {
-	const onClick = useCallback(callbackFactory("Image6", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Image6", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -769,7 +769,7 @@ export function useImage6Cb() {
 	return { onClick }
 }
 export function useFlex30Cb() {
-	const onClick = useCallback(callbackFactory("Flex30", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex30", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -781,7 +781,7 @@ export function useFlex30Cb() {
 	return { onClick }
 }
 export function useTextBox57Cb() {
-	const onClick = useCallback(callbackFactory("TextBox57", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox57", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -797,7 +797,7 @@ export function useTextBox57Cb() {
 	return { onClick }
 }
 export function useDiv25Cb() {
-	const onClick = useCallback(callbackFactory("Div25", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div25", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -809,7 +809,7 @@ export function useDiv25Cb() {
 	return { onClick }
 }
 export function useTextBox58Cb() {
-	const onClick = useCallback(callbackFactory("TextBox58", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox58", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -825,7 +825,7 @@ export function useTextBox58Cb() {
 	return { onClick }
 }
 export function useTextBox59Cb() {
-	const onClick = useCallback(callbackFactory("TextBox59", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox59", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -841,7 +841,7 @@ export function useTextBox59Cb() {
 	return { onClick }
 }
 export function useDiv29Cb() {
-	const onClick = useCallback(callbackFactory("Div29", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div29", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -853,7 +853,7 @@ export function useDiv29Cb() {
 	return { onClick }
 }
 export function useDiv30Cb() {
-	const onClick = useCallback(callbackFactory("Div30", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div30", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -865,7 +865,7 @@ export function useDiv30Cb() {
 	return { onClick }
 }
 export function useFlex31Cb() {
-	const onClick = useCallback(callbackFactory("Flex31", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex31", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -877,7 +877,7 @@ export function useFlex31Cb() {
 	return { onClick }
 }
 export function useTextBox61Cb() {
-	const onClick = useCallback(callbackFactory("TextBox61", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox61", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -893,7 +893,7 @@ export function useTextBox61Cb() {
 	return { onClick }
 }
 export function useTextBox62Cb() {
-	const onClick = useCallback(callbackFactory("TextBox62", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox62", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -909,7 +909,7 @@ export function useTextBox62Cb() {
 	return { onClick }
 }
 export function useFlex33Cb() {
-	const onClick = useCallback(callbackFactory("Flex33", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex33", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -921,7 +921,7 @@ export function useFlex33Cb() {
 	return { onClick }
 }
 export function useDiv31Cb() {
-	const onClick = useCallback(callbackFactory("Div31", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div31", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -933,7 +933,7 @@ export function useDiv31Cb() {
 	return { onClick }
 }
 export function useDiv32Cb() {
-	const onClick = useCallback(callbackFactory("Div32", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div32", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -945,7 +945,7 @@ export function useDiv32Cb() {
 	return { onClick }
 }
 export function useAccordion1Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion1", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion1", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -961,7 +961,7 @@ export function useAccordion1Cb() {
 	return { onTitleClick }
 }
 export function useAccordion2Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion2", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion2", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -977,7 +977,7 @@ export function useAccordion2Cb() {
 	return { onTitleClick }
 }
 export function useAccordion3Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion3", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion3", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -993,7 +993,7 @@ export function useAccordion3Cb() {
 	return { onTitleClick }
 }
 export function useAccordion4Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion4", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion4", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1009,7 +1009,7 @@ export function useAccordion4Cb() {
 	return { onTitleClick }
 }
 export function useAccordion5Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion5", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion5", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1025,7 +1025,7 @@ export function useAccordion5Cb() {
 	return { onTitleClick }
 }
 export function useAccordion6Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion6", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion6", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1041,7 +1041,7 @@ export function useAccordion6Cb() {
 	return { onTitleClick }
 }
 export function useAccordion7Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion7", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion7", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1057,7 +1057,7 @@ export function useAccordion7Cb() {
 	return { onTitleClick }
 }
 export function useAccordion8Cb() {
-	const onTitleClick = useCallback(callbackFactory("Accordion8", "Home", "/", "onTitleClick", 
+	const onTitleClick = useCallback(callbackFactory("Accordion8", "Blog", "/", "onTitleClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1073,7 +1073,7 @@ export function useAccordion8Cb() {
 	return { onTitleClick }
 }
 export function useDiv35Cb() {
-	const onClick = useCallback(callbackFactory("Div35", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div35", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1085,7 +1085,7 @@ export function useDiv35Cb() {
 	return { onClick }
 }
 export function useTextBox65Cb() {
-	const onClick = useCallback(callbackFactory("TextBox65", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox65", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1101,7 +1101,7 @@ export function useTextBox65Cb() {
 	return { onClick }
 }
 export function useTextBox66Cb() {
-	const onClick = useCallback(callbackFactory("TextBox66", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox66", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1117,7 +1117,7 @@ export function useTextBox66Cb() {
 	return { onClick }
 }
 export function useFlex34Cb() {
-	const onClick = useCallback(callbackFactory("Flex34", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex34", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1129,7 +1129,7 @@ export function useFlex34Cb() {
 	return { onClick }
 }
 export function useDiv36Cb() {
-	const onClick = useCallback(callbackFactory("Div36", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div36", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1141,7 +1141,7 @@ export function useDiv36Cb() {
 	return { onClick }
 }
 export function useDiv37Cb() {
-	const onClick = useCallback(callbackFactory("Div37", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div37", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1153,7 +1153,7 @@ export function useDiv37Cb() {
 	return { onClick }
 }
 export function useTextBox67Cb() {
-	const onClick = useCallback(callbackFactory("TextBox67", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox67", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1169,7 +1169,7 @@ export function useTextBox67Cb() {
 	return { onClick }
 }
 export function useTextBox68Cb() {
-	const onClick = useCallback(callbackFactory("TextBox68", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox68", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1185,7 +1185,7 @@ export function useTextBox68Cb() {
 	return { onClick }
 }
 export function useTextBox69Cb() {
-	const onClick = useCallback(callbackFactory("TextBox69", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox69", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1201,7 +1201,7 @@ export function useTextBox69Cb() {
 	return { onClick }
 }
 export function useFlex35Cb() {
-	const onClick = useCallback(callbackFactory("Flex35", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Flex35", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1213,7 +1213,7 @@ export function useFlex35Cb() {
 	return { onClick }
 }
 export function useDiv40Cb() {
-	const onClick = useCallback(callbackFactory("Div40", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div40", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1225,7 +1225,7 @@ export function useDiv40Cb() {
 	return { onClick }
 }
 export function useDiv41Cb() {
-	const onClick = useCallback(callbackFactory("Div41", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div41", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1237,7 +1237,7 @@ export function useDiv41Cb() {
 	return { onClick }
 }
 export function useDiv42Cb() {
-	const onClick = useCallback(callbackFactory("Div42", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("Div42", "Blog", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1249,7 +1249,7 @@ export function useDiv42Cb() {
 	return { onClick }
 }
 export function useTextBox70Cb() {
-	const onClick = useCallback(callbackFactory("TextBox70", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox70", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1265,7 +1265,7 @@ export function useTextBox70Cb() {
 	return { onClick }
 }
 export function useTextBox71Cb() {
-	const onClick = useCallback(callbackFactory("TextBox71", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox71", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1281,7 +1281,7 @@ export function useTextBox71Cb() {
 	return { onClick }
 }
 export function useTextBox72Cb() {
-	const onClick = useCallback(callbackFactory("TextBox72", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox72", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1297,7 +1297,7 @@ export function useTextBox72Cb() {
 	return { onClick }
 }
 export function useTextBox73Cb() {
-	const onClick = useCallback(callbackFactory("TextBox73", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox73", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1313,7 +1313,7 @@ export function useTextBox73Cb() {
 	return { onClick }
 }
 export function useTextBox74Cb() {
-	const onClick = useCallback(callbackFactory("TextBox74", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox74", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1329,7 +1329,7 @@ export function useTextBox74Cb() {
 	return { onClick }
 }
 export function useTextBox75Cb() {
-	const onClick = useCallback(callbackFactory("TextBox75", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox75", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1345,7 +1345,7 @@ export function useTextBox75Cb() {
 	return { onClick }
 }
 export function useTextBox76Cb() {
-	const onClick = useCallback(callbackFactory("TextBox76", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox76", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1361,7 +1361,7 @@ export function useTextBox76Cb() {
 	return { onClick }
 }
 export function useTextBox77Cb() {
-	const onClick = useCallback(callbackFactory("TextBox77", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox77", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {
@@ -1377,7 +1377,7 @@ export function useTextBox77Cb() {
 	return { onClick }
 }
 export function useTextBox78Cb() {
-	const onClick = useCallback(callbackFactory("TextBox78", "Home", "/", "onClick", 
+	const onClick = useCallback(callbackFactory("TextBox78", "Blog", "/", "onClick", 
 			{
   "handlers": [
     {

@@ -1,4 +1,8 @@
 {
+  "Blog": {
+    "name": "Blog",
+    "route": "/Blog"
+  },
   "home": {
     "name": "Home",
     "route": "/"
